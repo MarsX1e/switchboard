@@ -1,0 +1,36 @@
+.block{
+    width:80px;
+    height: 80px;
+    background-color: #784004;
+    outline: 2px solid #050403;
+    margin-right: 2px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.on{
+   
+    margin:10px;
+    width:60px;
+    height: 60px;
+    background-color: #139e0f;
+}
+.off{
+    
+    margin:10px;
+    width:60px;
+    height: 60px;
+    background-color: #cf2a27;
+}
+.top{
+    text-align: center;
+}
+.left{
+    margin-left: 20px;
+}
+.font{
+    position: relative;
+    top:20px;
+    left:20px;
+    
+}
